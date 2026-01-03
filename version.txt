@@ -1,1 +1,1 @@
-4.0 CAMEL
+CAMEL 6.0
