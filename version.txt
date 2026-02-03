@@ -1,5 +1,1 @@
-4.0 NEO_MODS
-hdkld
-hdjd
-gdhd
-bdn
+NEO_MODS 4.0
