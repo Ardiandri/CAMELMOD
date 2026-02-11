@@ -1,7 +1,1 @@
-9.0 NEO_MODS
-kdkdk
-jdkd
-hsjs
-hsjs
-jd
-jdjd
+NEO_MODS 10.0
