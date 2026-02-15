@@ -1,5 +1,1 @@
-11.0 NEO_MODS
-bzns
-bdjbdjd
-hdjd
-hdh
+NEO_MODS 12.0
