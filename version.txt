@@ -1,6 +1,1 @@
- NEO_MODS 17.0
-gaskk
-gdjs
-gdus
-gshsj
-hdjs
+1.0 NEO_MODS
