@@ -1,4 +1,1 @@
-NEO_MODS 1.0
-Gsjsk
-hdjdd
-hdjdm.hsj
+2.0 NEO_MODS
