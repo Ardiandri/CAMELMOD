@@ -1,5 +1,1 @@
-2.1.1 NEO_MODS
-gsjs
-bsjs
-hsjs
-hejs
+NEO_MODS 3.0
