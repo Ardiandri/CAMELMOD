@@ -1,6 +1,1 @@
-5.2.0 NEO_MODS 
-vdjd
-bdbd
-bdnd
-bdnd
-hdjd
+NEO_MODS 5.2.0
